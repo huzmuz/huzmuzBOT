@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "huzmuz.aternos.me:13147",
+    "ip": "huzmuz.aternos.me",
     "port": 13147,
     "version": "",
     "try-creative": false
