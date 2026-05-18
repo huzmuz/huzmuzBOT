@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "huzmuz.aternos.me:13147",
+    "port": 13147,
     "version": "",
     "try-creative": false
   },
